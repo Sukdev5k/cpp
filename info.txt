@@ -1,6 +1,13 @@
-This S5k's Notes :)
-.
-.
-chenges at github remote
-.
-.
+<<<<<<< HEAD
+This is S5k's Notes :)
+;
+;
+;
+Git--- Track
+;
+updated from server
+;
+
+
+
+>>>>>>> feature1
